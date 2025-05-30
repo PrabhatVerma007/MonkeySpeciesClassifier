@@ -30,7 +30,7 @@ Install dependencies using pip:
 
 ```bash
 pip install tensorflow numpy matplotlib scikit-learn
-
+```
 ## 🚀 Running the Notebooks
 
 ### Train & Evaluate with ViT:
