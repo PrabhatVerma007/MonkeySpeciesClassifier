@@ -20,8 +20,8 @@ The ViT model splits images into patches, encodes them via positional embeddings
 
 ## 📊 Dataset
 
-- **Classes**: 18 monkey species
-- **Images**: 24,000+ images (training, validation, and test splits)
+- **Classes**: 9 monkey species
+- **Images**: 12,000+ images (training, validation, and test splits)
 - **Format**: Image folders with labeled subdirectories
 
 ## 🔧 Setup & Requirements
