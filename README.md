@@ -5,7 +5,7 @@ This project implements a monkey species classifier using the Vision Transformer
 ## 📁 Project Structure
 
 - `keras-validation-monkey-vit.ipynb`: Notebook for dataset loading, preprocessing, training, validation, and result visualization using Keras.
-- `vit-transformer.ipynb`: Notebook for building and training a Vision Transformer (ViT) model from scratch using TensorFlow/Keras.
+- `vit-transformer.ipynb`: Notebook for building and training a Vision Transformer (ViT) model using TensorFlow/Keras.
 
 ## 🧠 Model Overview
 
